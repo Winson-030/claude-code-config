@@ -1,0 +1,38 @@
+# Files and directories to ignore in Claude Code
+# This follows .gitignore syntax
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Build outputs
+dist/
+build/
+target/
+out/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Temporary files
+*.bak
+*.backup
+*.old

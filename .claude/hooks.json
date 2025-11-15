@@ -1,0 +1,8 @@
+{
+  "pre_command": [],
+  "post_command": [],
+  "pre_file_operation": [],
+  "post_file_operation": [],
+  "git_pre_commit": [],
+  "git_post_commit": []
+}
