@@ -19,6 +19,9 @@ Provide a summary of the current project structure and files.
 ### /ipinfo
 Check my ip using command `curl https://ipinfo.io`
 
+### /commit-and-push
+Commit and push changes to remote repository.
+
 ## Usage
 
 Type `/command-name` to execute any of these custom commands.

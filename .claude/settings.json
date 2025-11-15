@@ -1,7 +1,7 @@
 {
   "project_name": "claude-code-config",
   "description": "My Claude code configuration repository",
-  "default_model": "claude-3-5-sonnet-20241022",
+  "default_model": "kimi-k2-thinking",
   "allow_bash_commands": true,
   "auto_save": true,
   "theme": "dark",
