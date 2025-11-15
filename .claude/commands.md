@@ -16,6 +16,9 @@ Show detailed git status and recent commits.
 ### /project-summary
 Provide a summary of the current project structure and files.
 
+### /ipinfo
+Check my ip using command `curl https://ipinfo.io`
+
 ## Usage
 
 Type `/command-name` to execute any of these custom commands.
