@@ -22,6 +22,9 @@ Check my ip using command `curl https://ipinfo.io`
 ### /commit-and-push
 Commit and push changes to remote repository.
 
+### /summarize-yt-video
+Summarizes YouTube videos by downloading subtitles and creating a report.
+
 ## Usage
 
 Type `/command-name` to execute any of these custom commands.
