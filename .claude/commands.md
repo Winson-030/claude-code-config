@@ -25,6 +25,9 @@ Commit and push changes to remote repository.
 ### /summarize-yt-video
 Summarizes YouTube videos by downloading subtitles and creating a report.
 
+### /source-search
+Traces high-entropy claims, rumors, and unverified information back to their authoritative original sources through structured investigation.
+
 ## Usage
 
 Type `/command-name` to execute any of these custom commands.
