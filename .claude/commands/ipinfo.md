@@ -10,3 +10,7 @@ It shows:
 - Country
 - Location coordinates
 - ISP/Organization information
+
+Implementation:
+1. Execute the command: `curl https://ipinfo.io`
+2. Display the output to the user
